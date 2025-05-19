@@ -47,7 +47,7 @@ I’m passionate about **building intelligent systems**, **making data accessibl
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/shakthivelu-aj/)
 - 📧 [Email Me](mailto:ajshakthivelu@gmail.com)
-- 🌐 [Portfolio Website](#) *(optional)*
+- 🌐 [Portfolio Website](https://shakthiaj-portfolio.netlify.app/)
 
 ---
 
