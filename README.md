@@ -16,7 +16,7 @@ I love building impactful projects that blend **technology**, **data**, and **cr
 
 ## 🧠 Projects That Define Me
 
-### 🔥 Civic Fix
+### 🔥 Civil Fix
 > A centralized platform for filing and tracking public complaints built with **React** and **FastAPI**.  
 > I led the AI integration and backend development to create a smooth user experience.
 
